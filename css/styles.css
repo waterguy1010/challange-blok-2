@@ -1,0 +1,80 @@
+
+.menu  {
+background: #262626 ;
+border: 1px solid #fff;
+line-height: 50px;
+color: #fff;
+font-size: 14px;
+font-family: big john;
+display: flex;
+align-items:center ;
+justify-content: space-evenly;
+}
+
+
+.bitch1:hover{
+color: pink;
+}
+
+.bitch2:hover{
+    color: pink;
+    }
+
+    .bitch3:hover{
+        color: pink;
+        }
+
+        .bitch4:hover{
+            color: pink;
+            }
+body{
+    
+    background-color: pink;
+    
+}
+.intro{
+width: 256px;
+background-color:black ;
+color: pink;
+text-align: center;
+position: relative;
+display:flex ;
+align-items: center;
+border-radius: 13%;
+}
+
+.divintro{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 3%;
+}
+.cherry{
+    width: 100px;
+    border-radius: 45%;
+}
+.klik{
+    width: 256px;
+    background-color:black ;
+    color: pink;
+    text-align: center;
+    position: relative;
+    display:flex ;
+    align-items: center;
+    border-radius: 13%;
+    
+    
+}
+.proh{
+    display: flex;
+    width: 256px;
+background-color:black ;
+color: pink;
+text-align: center;
+position: relative;
+display:flex ;
+align-items: center;
+float: right;
+margin-right: 800px;
+border-radius: 13%;
+}
